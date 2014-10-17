@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[soh:home|Door43 (soh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-soh|d43-soh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-soh/archive/master.zip|d43-soh.zip]]
+
+**Recent Changes**
+{{changes>ns = soh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/soh|Ethnologue data]]
+
